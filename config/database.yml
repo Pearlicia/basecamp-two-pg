@@ -38,6 +38,6 @@ production:
 production:
   <<: *default
   url: <%= ENV['DATABASE_URL'] %>
-  database: my_basecamp_production
+  database: my_basecamp
   username: my_basecamp
   password: <%= ENV['MY_APP_RENDER_DATABASE_PASSWORD'] %>
