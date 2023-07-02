@@ -76,7 +76,6 @@ gem 'font-awesome-rails'
 gem 'rolify'
 gem "rails_admin"
 gem 'trix'
-gem "sassc-rails"
 gem 'actiontext'
 gem 'sassc'
 
