@@ -82,4 +82,3 @@ gem 'sassc'
 
 
 
-gem "cssbundling-rails"
