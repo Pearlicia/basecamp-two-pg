@@ -7,7 +7,7 @@ databases:
 
 services:
   - type: web
-    name: rails
+    name: basecamp-two
     env: ruby
     buildCommand: "./render-build.sh"
     startCommand: "bundle exec rails s"
