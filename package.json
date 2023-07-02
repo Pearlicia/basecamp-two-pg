@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "rails_admin": "3.1.2"
+    "rails_admin": "3.1.2",
+    "sass": "^1.63.6",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "build:css": "sass ./app/assets/stylesheets/rails_admin.scss:./app/assets/builds/rails_admin.css --no-source-map --load-path=node_modules"
