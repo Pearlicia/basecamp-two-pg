@@ -14,8 +14,8 @@
  *= require_self
  */
 
- /* @import "actiontext"; */
- /* @import 'comment'; */
+ @import "actiontext";
+ @import 'comment';
 
 
 

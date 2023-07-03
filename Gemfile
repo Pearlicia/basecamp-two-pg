@@ -80,5 +80,4 @@ gem 'actiontext'
 gem 'sassc'
 gem "aws-sdk-s3", require: false
 
-
 gem "cssbundling-rails"
